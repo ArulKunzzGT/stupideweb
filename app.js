@@ -1,17 +1,20 @@
 const express = require('express');
-const app = express();
 const port = 3000;
-
-
-app.set('view engine', 'ejs');
+const path = require('path');
+var app = express();
+app.enable("trust proxy");
+app.set("json spaces", 2);
+app.use(cors());
+app.use(secure);
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-    res.render('index', { title: 'Beranda Portofolio' });
+    res.sendFile(path.join(__dirname, 'public', 'flower', 'home.html'));
 });
 
-app.get('/home', (req, res) => {
+app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'flower', 'home.html'));
 });
 
