@@ -1,6 +1,8 @@
 const express = require('express');
-const port = 3000;
 const path = require('path');
+const port = 3000;
+var cors = require("cors");
+var secure = require("ssl-express-www");
 var app = express();
 app.enable("trust proxy");
 app.set("json spaces", 2);
