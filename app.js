@@ -16,7 +16,7 @@ app.get('/home', (req, res) => {
 });
 
 app.use((req, res) => {
-    res.status(404).sendFile(path.join(__dirname, 'public', 'error' '404.html'));
+    res.status(404).sendFile(path.join(__dirname, 'public', 'error', '404.html'));
 });
 
 app.listen(port, () => {
