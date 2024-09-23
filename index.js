@@ -19,7 +19,15 @@ app.get('/home', (req, res) => {
 });
 
 app.get('/mtk', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'contekan', 'contekan.txt'));
+    res.sendFile(path.join(__dirname, 'public', 'contekan', 'mtk.txt'));
+});
+
+app.get('/pai', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'contekan', 'mtk.txt'));
+});
+
+app.get('/bindo', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'contekan', 'bindo.txt'));
 });
 
 app.use((req, res) => {
