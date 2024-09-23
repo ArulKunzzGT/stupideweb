@@ -31,3 +31,33 @@ HIMP B = KO DOMAIN = DAERAH KAWAN(HASIL)
 1.DIAGRAM PANAH (https://imgix2.ruangguru.com/assets/miscellaneous/png_rtiggh_2684.png)
 2.DIAGRAM CARTESIUS (https://www.sitnas.id/uploads/large/cff14cc1215a0655431ea1e0e8f1ddcd.png)
 3.HIMPUNAN PASANGAN BERURUTAN (https://i.ytimg.com/vi/VKXDE-hZ6Ak/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuggrEYAVVgPgdIx_YZ3_oMT8bhA)
+
+contoh soal
+Diket
+F(X) = px + q
+F (-1) = -19
+F (2) = 14
+
+F(1) = P(-1) + Q = -19
+     = -P + Q    = -19
+
+F(2) = P(2) + Q  = 14
+     = 2P + Q    = 14
+
+-P + Q = 19 ==> Q = P - 19
+
+2P + (P-19) = 14
+3P - 19     = 14
+3P          = 14 + 19
+3P          = 33 [ P = 33/3 = 11 ]
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+-P + Q = -19
+-11 + 1 = -19
+Q = -19 + 11
+[1 = 8] 
+
+[( P - Q = ?)]
+                     hasil         P - Q = 11 - (-11) = 11 + 8 = [19]
