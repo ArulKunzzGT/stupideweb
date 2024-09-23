@@ -5,3 +5,29 @@ MATEMATIKA
 5x – 3x   = 15+3-2
 2x = 16
 X = 8
+
+Simbol
+A : suku awal  
+B : Selisih antar bilangan
+N : nilai satuan bilangan
+U : suku bilangan
+Un : nilai suku bilangan
+
+Rumus 
+Ganjil Un = 2n – 1
+Genap Un = 2n
+
+Pola Persegi Un = n x n
+Rumus Sn = n/2 (2a(n-1)b) (deret geometri)
+Rumus Un = a + (n-1) b (mencari suku ke N)
+
+RELASI : HUBUNGAN DARI HIMPUNAN A DAN HIMPUNAN B DENGAN ATURAN TERTENTU
+RELASI DAPAT DINYATAKAN DALAM 3 BENTUK
+HIMP A = DOMAIN = DAERAH ASAL
+HIMP B = KO DOMAIN = DAERAH KAWAN(HASIL)
+
+(https://i.ytimg.com/vi/l1cGD0BFxdY/maxresdefault.jpg) (LEBIH JELAS)
+
+1.DIAGRAM PANAH (https://imgix2.ruangguru.com/assets/miscellaneous/png_rtiggh_2684.png)
+2.DIAGRAM CARTESIUS (https://www.sitnas.id/uploads/large/cff14cc1215a0655431ea1e0e8f1ddcd.png)
+3.HIMPUNAN PASANGAN BERURUTAN (https://i.ytimg.com/vi/VKXDE-hZ6Ak/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuggrEYAVVgPgdIx_YZ3_oMT8bhA)
