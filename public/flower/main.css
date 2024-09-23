@@ -1319,3 +1319,26 @@ body {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
 }
+.button-container {
+    display: flex;
+    gap: 10px; /* Jarak antara tombol */
+}
+
+.small-button {
+    display: inline-block; /* Agar bisa diberi padding */
+    background-color: rgba(255, 255, 255, 0.5); /* Warna putih setengah transparan */
+    border: none;
+    padding: 5px 10px; /* Padding lebih kecil untuk tombol kecil */
+    font-size: 14px; /* Ukuran font lebih kecil */
+    text-decoration: none; /* Hilangkan garis bawah */
+    color: black; /* Warna teks */
+    transition: background-color 0.3s;
+}
+
+.small-button:hover {
+    background-color: rgba(255, 255, 255, 0.8); /* Lebih terang saat hover */
+}
+
+.small-button:active {
+    background-color: rgba(255, 255, 255, 0.3); /* Lebih gelap saat ditekan */
+}
