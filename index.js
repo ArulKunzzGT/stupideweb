@@ -18,6 +18,10 @@ app.get('/home', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'flower', 'index.html'));
 });
 
+app.get('/mtk', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'contekan', 'contekan.txt'));
+});
+
 app.use((req, res) => {
     res.status(404).sendFile(path.join(__dirname, 'public', 'error', '404.html'));
 });
