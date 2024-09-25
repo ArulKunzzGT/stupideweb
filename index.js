@@ -38,6 +38,10 @@ app.get('/ipa', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'contekan', 'ipa.txt'));
 });
 
+app.get('/ips', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'contekan', 'ips.txt'));
+});
+
 app.use((req, res) => {
     res.status(404).sendFile(path.join(__dirname, 'public', 'error', '404.html'));
 });
