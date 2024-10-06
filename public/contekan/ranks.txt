@@ -32,89 +32,34 @@ gitut=812/73,81
 irul=904/82,18
 yusron=829/75,36
 
-Berikut adalah urutan nilai dari tertinggi ke terendah:
-
+Ranking - Rata Rata
 1. Mimit - 91.90
-
-
 2. Vivi - 85.00
-
-
 3. Irul - 82.18
-
-
 4. Oliv - 80.54
-
-
 5. Ara - 79.54
-
-
 6. Keke - 79.36
-
-
 7. Aliya - 78.90
-
-
 8. Nafis - 78.81
-
-
 9. Tutuh - 77.81
-
-
 10. Nadia - 77.72
-
-
 11. Dila - 76.81
-
-
 12. Laras - 76.36
-
-
 13. Yusron - 75.36
-
-
 14. Gumal - 74.81
-
-
 15. Rani - 74.54
-
-
 16. Gitut - 73.81
-
-
 17. Venus - 73.36
-
-
 18. Rere - 73.09
-
-
 19. Dina - 72.81
-
-
 20. Andini - 71.81
-
-
 21. Biin - 71.54
-
-
 22. Nana - 70.81
-
-
 23. Iwan - 70.09
-
-
 24. Haidan - 69.36
-
-
 25. Bagas - 69.09
-
-
 26. Alfareno - 68.72
-
-
 27. Curut - 68.36
-
-
 28. Jun - 67.54
 29. Fathur - 65.90
 30. Ghani - 64.72
