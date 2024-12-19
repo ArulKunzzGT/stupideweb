@@ -42,6 +42,10 @@ app.get('/ips', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'contekan', 'ips.txt'));
 });
 
+app.get('/spotifyicon', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'contekan', 'klipartz.com.png'));
+});
+
 app.get('/kls8sts1', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'contekan', 'ranks.txt'));
 });
